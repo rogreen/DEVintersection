@@ -16,6 +16,8 @@ namespace ConsoleApp1
             // Also added in VS
 
             // Call NewFEature1
+
+            // Call NewFeature2
             
             // Call NewFeature3
         }
